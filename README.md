@@ -4,3 +4,16 @@ An automobile company has plans to enter new markets with their existing product
 In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for a different segment of customers. This strategy has work e exceptionally well for them. They plan to use the same strategy for the new markets and have identified 2627 new potential customers.
 
 dataset : https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation
+
+About dataset :
+ID = 	Unique ID
+Gender = 	Gender of the customer
+Ever_Married = 	Marital status of the customer
+Age =	Age of the customer
+Graduated =	Is the customer a graduate?
+Profession	= Profession of the customer
+Work_Experience =	Work Experience in years
+Spending_Score = Spending score of the customer
+Family_Size	Number = of family members for the customer (including the customer)
+Var_1	Anonymised = Category for the customer
+Segmentation =	(target) Customer Segment of the customer
