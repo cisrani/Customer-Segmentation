@@ -28,4 +28,6 @@ In the previous explanation, the sales team classified customers into 4 segments
 However, the results of the customer segmentation experiment using the KMeans Method classify customers into 3 segments
 the result is shown in the graph below:
 
+![alt text](https://github.com/cisrani/Customer-Segmentation/blob/main/result.png)
+
 
