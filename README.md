@@ -5,27 +5,22 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 dataset : https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation
 
-# About dataset :
+#Step to classifying
+1. Data Preprocessing
+  -Check the informartion of the dataset
+  -Check the missing values
+  -Solve the missing values problem with imputation. 
+2. Exploratory Data Analysis
+3. Data Processing
+  - Delete unwanted variables
+  - Label encoding
+  - Scaling data
+  - K means modelling
 
-ID = 	Unique ID
+# Result :
 
-Gender = 	Gender of the customer
+In the previous explanation, the sales team classified customers into 4 segments. 
+However, the results of the customer segmentation experiment using the KMeans Method classify customers into 3 segments
+the result is shown in the graph below:
 
-Ever_Married = 	Marital status of the customer
-
-Age =	Age of the customer
-
-Graduated =	Is the customer a graduate?
-
-Profession	= Profession of the customer
-
-Work_Experience =	Work Experience in years
-
-Spending_Score = Spending score of the customer
-
-Family_Size	Number = of family members for the customer (including the customer)
-
-Var_1	Anonymised = Category for the customer
-
-Segmentation =	(target) Customer Segment of the customer
 
