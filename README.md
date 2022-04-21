@@ -8,12 +8,12 @@ dataset : https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation
 #Step to classifying
 1. Data Preprocessing
 
-  -Check the informartion of the dataset
-  
-  -Check the missing values
-  
-  -Solve the missing values problem with imputation. 
-  
+    -Check the informartion of the dataset
+
+    -Check the missing values
+
+    -Solve the missing values problem with imputation. 
+
 2. Exploratory Data Analysis
 
 3. Data Processing
